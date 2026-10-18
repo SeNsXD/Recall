@@ -57,57 +57,63 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
 
 ---
 
-## 🏆 Top 10 Features
+## 🏆 All In One App — Top 10 Features
+
+<div align="center">
+  <img src="docs/assets/recall-top10-features.png" alt="Recall — All In One App. Top 10 Features" width="100%" />
+</div>
+
+<br />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>1. 🧠 Echo — 100% On-Device AI Assistant</h3>
-      <p>Search, retrieve memories, or set reminders using natural, conversational language. Echo processes your intent and indexes your data entirely on-device with zero tokens, zero latency, and zero remote server calls.</p>
+      <h3>01. 🛡️ Privacy Focused</h3>
+      <p>Zero telemetry, zero analytics SDKs, and zero ad networks. All your notes, photos, and records live 100% on your device in a private SQLite database. No mandatory account, no signup, and no internet connection required for core use.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>2. 📝 Sticky Notes & Inline Quick Composer</h3>
-      <p>Jot down ideas instantly from your Home screen. Features markdown formatting (bold, italic, auto-formatting, phone/URL action links), customizable color palettes, multi-image attachments, auto-save, and batch selection tools (pin, unpin, delete).</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>3. 💬 Floating Note Bubble (System Overlay)</h3>
-      <p>Capture thoughts without switching apps. An optional, lightweight floating bubble sits unobtrusively on top of your screen, letting you take notes, paste links, or check reminders while browsing or working.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>4. 📍 "Where I Put It" with Voice Notes</h3>
-      <p>Never lose your keys, passport, or tools again. Save contextual locations with placement camera photos and real-time audio voice notes. Includes interactive audio waveform levels, instant playback, and custom titles.</p>
+      <h3>02. 🔐 Highly Secured</h3>
+      <p>Logins, credentials, and payment cards are protected by hardware-backed AES-256-GCM encryption in the Android Keystore. Guarded by biometric auth (fingerprint/face) and <code>FLAG_SECURE</code> window shielding to block screenshots and recents previews.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>5. 🔐 Hardware-Encrypted Password Vault</h3>
-      <p>Store logins, credentials, and secure cards protected with AES-256-GCM encryption backed by the Android Keystore. Guarded by biometrics and system passcodes, with <code>FLAG_SECURE</code> window protection to block screen recording and app switcher leakage.</p>
+      <h3>03. ☁️ Encrypted Backup</h3>
+      <p>Client-side end-to-end encrypted backup. Your data is chunked and encrypted with AES-256-GCM using your personal 16-character recovery passphrase before upload to Google Drive, ensuring complete zero-knowledge cloud storage.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>6. ⏰ Smart Exact Reminders & Call Alarms</h3>
-      <p>Schedule time-critical tasks with precise exact alarms (<code>AlarmManager.RTC_WAKEUP</code>). High-priority reminders ring like an incoming phone call with text-to-speech announcement over the lock screen, backed by smart snooze intervals.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>7. 📊 Spending & Financial Analytics Engine</h3>
-      <p>Keep your finances private. Automatically extracts totals from captured receipts, tracks product warranty expirations, monitors recurring subscription renewals, and displays multi-currency spending breakdown trends.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>8. 📸 Snap Text (Offline OCR & Entity Extractor)</h3>
-      <p>Capture or import screenshots and paperwork. On-device Google ML Kit OCR extracts text in milliseconds and automatically detects actionable entities—such as phone numbers, dates, emails, and street addresses—for one-tap saving.</p>
+      <h3>04. 🪟 Pop-Up Widgets & Floating Bubble</h3>
+      <p>Instant capture from anywhere. Features rich Home screen pop-up widgets and an opt-in floating sticky note bubble overlay that lets you jot thoughts, paste links, and check tasks over any active app without switching context.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>9. ⏳ Temporary Click (24h Ephemeral Drop)</h3>
-      <p>A dedicated holding area for transient photos, parking ticket receipts, or temporary notes. Items automatically expire and self-destruct after 24 hours unless explicitly preserved into your permanent Library.</p>
+      <h3>05. 🧠 Local Assistant (Echo)</h3>
+      <p>A 100% on-device personal assistant. Search memories, find physical item locations, or schedule reminders using natural phrasing—operating entirely on your phone's CPU with zero external AI tokens or server latency.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>10. 🛡️ Data Sovereignty, Safe Bin & Cloud Sync</h3>
-      <p>A 30-day soft-delete Bin protects you against accidental deletion. Optional Google Drive backup encrypts your entire database client-side using chunked AES-256-GCM and a 16-character recovery passphrase before anything touches the cloud.</p>
+      <h3>06. 📍 Where I Put It</h3>
+      <p>Never misplace keys, passports, or tools again. Save belongings with contextual room/shelf locations, camera placement snaps, and audio voice drop notes with live waveform capture and custom titles.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>07. 📸 Snap Text (Offline OCR)</h3>
+      <p>Extract text from paperwork, bills, and screenshots in milliseconds using on-device Google ML Kit. Automatically recognizes phone numbers, dates, emails, and street addresses for one-tap saving.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>08. ⏰ Reminders & Exact Alarms</h3>
+      <p>Precision time scheduling backed by Android exact alarms (<code>AlarmManager.RTC_WAKEUP</code>). High-priority reminders ring like an incoming phone call with text-to-speech announcement over the lock screen.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>09. 🧾 Bills & Warranty (Spending Analytics)</h3>
+      <p>Track receipts with automatic total calculation, monitor product warranty countdowns, track subscription renewals, and view categorized multi-currency spending breakdown trends.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>10. ⏳ Temp Click (Ephemeral Drop)</h3>
+      <p>A fast camera capture holding area for transient parking spots, temporary notes, or one-off receipts that automatically self-destruct after 24 hours unless explicitly preserved into your permanent Library.</p>
     </td>
   </tr>
 </table>
