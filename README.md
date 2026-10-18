@@ -47,6 +47,14 @@ Modern apps routinely send your private thoughts, receipts, credentials, and cam
 
 Everything you save in Recall lives exclusively inside your phone's encrypted sandbox. Echo, your integrated personal assistant, parses queries, matches memories, and organizes your life directly on your device CPU—without external AI APIs, account registrations, or telemetry beacons.
 
+<br />
+
+<div align="center">
+  <img src="docs/assets/recall-features-banner.png" alt="Recall — Your memory, within reach. Private. Offline. Android." width="100%" />
+</div>
+
+<br />
+
 ---
 
 ## 🏆 Top 10 Features
