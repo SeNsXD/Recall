@@ -36,7 +36,7 @@
 <br />
 
 <div align="center">
-  <img src="docs/assets/recall-hero-mockup.png" alt="Recall 3D Product Showcase — Home Deck, Encrypted Vault, and Spending Analytics" width="100%" />
+  <img src="docs/assets/recall-features-banner.png" alt="Recall — Your memory, within reach. Private. Offline. Android." width="100%" />
 </div>
 
 <br />
@@ -46,12 +46,6 @@
 Modern apps routinely send your private thoughts, receipts, credentials, and camera captures to third-party clouds. **Recall is built on a different philosophy: radical data sovereignty.**
 
 Everything you save in Recall lives exclusively inside your phone's encrypted sandbox. Echo, your integrated personal assistant, parses queries, matches memories, and organizes your life directly on your device CPU—without external AI APIs, account registrations, or telemetry beacons.
-
-<br />
-
-<div align="center">
-  <img src="docs/assets/recall-features-banner.png" alt="Recall — Your memory, within reach. Private. Offline. Android." width="100%" />
-</div>
 
 <br />
 
