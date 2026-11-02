@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/SeNsXD/Recall/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-4C7DF0?style=for-the-badge&logo=android&logoColor=white" alt="Current Release"></a>
+    <a href="https://github.com/SeNsXD/Recall/releases/tag/v2.0"><img src="https://img.shields.io/badge/Release-v2.0-4C7DF0?style=for-the-badge&logo=android&logoColor=white" alt="Current Release"></a>
     <a href="#"><img src="https://img.shields.io/badge/Platform-Android%2012%2B-0D0F12?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android 12+"></a>
     <a href="#"><img src="https://img.shields.io/badge/AI-100%25%20On--Device-10b981?style=for-the-badge" alt="On-Device Assistant"></a>
     <a href="#"><img src="https://img.shields.io/badge/Telemetry-Zero%20SDKs-6366f1?style=for-the-badge" alt="Zero Telemetry"></a>
@@ -20,14 +20,14 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/SeNsXD/Recall/releases/download/v1.0.0/Recall-v1.0.0.apk"><strong>📥 Download Latest APK (v1.0.0)</strong></a>
-    &nbsp;•&nbsp;
+    <a href="https://github.com/SeNsXD/Recall/releases/download/v2.0/Recall.2.0.apk"><strong>⚡ Download Latest APK (v2.0)</strong></a>
+    &nbsp; &bull; &nbsp;
     <a href="#-top-10-features"><strong>Top 10 Features</strong></a>
-    &nbsp;•&nbsp;
+    &nbsp; &bull; &nbsp;
     <a href="#-privacy-architecture-recall-vs-traditional-apps"><strong>Privacy Architecture</strong></a>
-    &nbsp;•&nbsp;
+    &nbsp; &bull; &nbsp;
     <a href="#-installation--setup"><strong>Installation</strong></a>
-    &nbsp;•&nbsp;
+    &nbsp; &bull; &nbsp;
     <a href="#-permissions-transparency"><strong>Permissions</strong></a>
   </p>
 
@@ -36,12 +36,12 @@
 <br />
 
 <div align="center">
-  <img src="docs/assets/recall-hero.png" alt="Recall — Your memory. Your device. Your control." width="100%" />
+  <img src="docs/assets/recall-hero.png" alt="Recall - Your memory. Your device. Your control." width="100%" />
 </div>
 
 <br />
 
-## 🌟 Why Recall?
+## 🔒 Why Recall?
 
 Modern apps routinely send your private thoughts, receipts, credentials, and camera captures to third-party clouds. **Recall is built on a different philosophy: radical data sovereignty.**
 
@@ -51,10 +51,10 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
 
 ---
 
-## 🏆 Top 10 Features
+## 🚀 Top 10 Features
 
 <div align="center">
-  <img src="docs/assets/recall-top10-features.png" alt="Recall — All In One App. Top 10 Features" width="100%" />
+  <img src="docs/assets/recall-top10-features.png" alt="Recall - All In One App. Top 10 Features" width="100%" />
 </div>
 
 <br />
@@ -76,7 +76,7 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
       <p>Client-side end-to-end encrypted backup. Your data is chunked and encrypted with AES-256-GCM using your personal 16-character recovery passphrase before upload to Google Drive, ensuring complete zero-knowledge cloud storage.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>04. 🪟 Pop-Up Widgets & Floating Bubble</h3>
+      <h3>04. 💬 Pop-Up Widgets & Floating Bubble</h3>
       <p>Instant capture from anywhere. Features rich Home screen pop-up widgets and an opt-in floating sticky note bubble overlay that lets you jot thoughts, paste links, and check tasks over any active app without switching context.</p>
     </td>
   </tr>
@@ -92,7 +92,7 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>07. 📸 Snap Text (Offline OCR)</h3>
+      <h3>07. 📷 Snap Text (Offline OCR)</h3>
       <p>Extract text from paperwork, bills, and screenshots in milliseconds using on-device vision processing. Automatically recognizes phone numbers, dates, emails, and street addresses for one-tap saving.</p>
     </td>
     <td width="50%" valign="top">
@@ -102,11 +102,11 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>09. 🧾 Bills & Warranty (Spending Analytics)</h3>
+      <h3>09. 💳 Bills & Warranty (Spending Analytics)</h3>
       <p>Track receipts with automatic total calculation, monitor product warranty countdowns, track subscription renewals, and view categorized multi-currency spending breakdown trends.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>10. ⏳ Temp Click (Ephemeral Drop)</h3>
+      <h3>10. ⏱️ Temp Click (Ephemeral Drop)</h3>
       <p>A fast camera capture holding area for transient parking spots, temporary notes, or one-off receipts that automatically self-destruct after 24 hours unless explicitly preserved into your permanent Library.</p>
     </td>
   </tr>
@@ -114,7 +114,7 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
 
 ---
 
-## 🔒 Privacy Architecture: Recall vs. Traditional Apps
+## ⚖️ Privacy Architecture: Recall vs. Traditional Apps
 
 | Capability | Standard Cloud Apps (Notion, Keep, etc.) | Recall |
 | :--- | :--- | :--- |
@@ -128,13 +128,13 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
 
 ---
 
-## 📲 Installation & Setup
+## 📦 Installation & Setup
 
 Recall is distributed directly via **GitHub Releases**.
 
 ### Quick Install (Android 12+)
 
-1. **Download the APK**: Download [`Recall-v1.0.0.apk`](https://github.com/SeNsXD/Recall/releases/download/v1.0.0/Recall-v1.0.0.apk) from the [Latest Release](https://github.com/SeNsXD/Recall/releases/tag/v1.0.0).
+1. **Download the APK**: Download [`Recall.2.0.apk`](https://github.com/SeNsXD/Recall/releases/download/v2.0/Recall.2.0.apk) from the [Latest Release (v2.0)](https://github.com/SeNsXD/Recall/releases/tag/v2.0).
 2. **Install**: Tap the downloaded file. When prompted by Android, grant **"Install unknown apps"** for your browser or file manager.
 3. **Open & Enjoy**: No account creation, email verification, or subscription required.
 
@@ -144,9 +144,9 @@ Recall is distributed directly via **GitHub Releases**.
 ### Verifying Checksum (Optional)
 To verify the authenticity and integrity of your downloaded APK, run in PowerShell:
 ```powershell
-Get-FileHash Recall-v1.0.0.apk -Algorithm SHA256
+Get-FileHash Recall.2.0.apk -Algorithm SHA256
 ```
-Compare the output against the verified hash published in the [GitHub Release Notes](https://github.com/SeNsXD/Recall/releases/tag/v1.0.0).
+Compare the output against the verified hash published in the [GitHub Release Notes](https://github.com/SeNsXD/Recall/releases/tag/v2.0).
 
 ---
 
@@ -174,7 +174,7 @@ Recall requests Android permissions only in context when you actively trigger fe
 
 ---
 
-## 🤝 Community & Support
+## 💬 Community & Support
 
 * **Bug Reports & Feature Requests**: Submit an issue via the [GitHub Issue Tracker](https://github.com/SeNsXD/Recall/issues).
 * **Security Disclosures**: Please file an issue with the `security` tag or contact the repository owner directly.
@@ -182,5 +182,5 @@ Recall requests Android permissions only in context when you actively trigger fe
 ---
 
 <div align="center">
-  <sub>Crafted with passion for personal freedom and software privacy. Your data belongs to you.</sub>
+  <sub>Part of the <a href="https://github.com/SeNsXD"><b>xdNOT-Labs</b></a> collection. Crafted with passion for personal freedom and software privacy. Your data belongs to you.</sub>
 </div>
