@@ -176,6 +176,7 @@ Recall requests Android permissions only in context when you actively trigger fe
 
 ## 💬 Community & Support
 
+* **Discord**: Join our community discussions on [Discord](https://discord.gg/X9b6TSYdVk).
 * **Bug Reports & Feature Requests**: Submit an issue via the [GitHub Issue Tracker](https://github.com/SeNsXD/Recall/issues).
 * **Security Disclosures**: Please file an issue with the `security` tag or contact the repository owner directly.
 
