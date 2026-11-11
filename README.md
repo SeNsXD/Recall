@@ -133,7 +133,7 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
         <img src="docs/assets/mockups/03_echo.png" alt="Echo - On-device AI Assistant" />
       </td>
       <td width="25%" valign="top">
-        <img src="docs/assets/mockups/04_life_feed.png" alt="Life Feed - Chronological Activity" />
+        <img src="docs/assets/mockups/04_timeline.png" alt="Timeline - Your life, remembered" />
       </td>
     </tr>
     <tr>
