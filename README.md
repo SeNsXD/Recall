@@ -22,6 +22,8 @@
   <p align="center">
     <a href="https://github.com/SeNsXD/Recall/releases/download/v2.0/Recall.2.0.apk"><strong>⚡ Download Latest APK (v2.0)</strong></a>
     &nbsp; &bull; &nbsp;
+    <a href="#-interface--feature-showcase"><strong>Showcase</strong></a>
+    &nbsp; &bull; &nbsp;
     <a href="#-top-10-features"><strong>Top 10 Features</strong></a>
     &nbsp; &bull; &nbsp;
     <a href="#-privacy-architecture-recall-vs-traditional-apps"><strong>Privacy Architecture</strong></a>
@@ -111,6 +113,47 @@ Everything you save in Recall lives exclusively inside your phone's encrypted sa
     </td>
   </tr>
 </table>
+
+<br />
+
+---
+
+## 📱 Interface &amp; Feature Showcase
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/01_home.png" alt="Home - Your day at a glance" />
+      </td>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/02_library.png" alt="Library - Everything in its place" />
+      </td>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/03_echo.png" alt="Echo - On-device AI Assistant" />
+      </td>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/04_life_feed.png" alt="Life Feed - Chronological Activity" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/05_privacy.png" alt="Privacy - 100% On-Device" />
+      </td>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/06_call_reminders.png" alt="Call Reminders &amp; Exact Alarms" />
+      </td>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/07_snap_text.png" alt="Snap Text - Offline OCR" />
+      </td>
+      <td width="25%" valign="top">
+        <img src="docs/assets/mockups/08_where_i_put_it.png" alt="Where I Put It - Item Tracking" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
 
 ---
 
